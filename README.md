@@ -1,6 +1,6 @@
 # PAMod
 
-Welcome to the official repository of PAMod: "[PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting]". 
+Welcome to the official repository of PAMod: "[PAMod: Modeling Cyclical Shifts via Phase-Amplitude Modulation for Non-stationary Time Series Forecasting]", which has been accepted to NeurIPS 2026. 
 
 
 ## Getting Started
