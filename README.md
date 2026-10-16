@@ -36,8 +36,3 @@ You can reproduce all the main results of PAMod with the following code snippet.
 ```
 sh run_main.sh
 ```
-
-For your convenience, we have provided the **execution results** of "sh run_main.sh":
-```
-./result.txt
-```
